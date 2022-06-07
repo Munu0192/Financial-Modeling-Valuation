@@ -4,6 +4,8 @@ INTRODUCTION
 2.	And in order to prepare a dynamic model, 3 scenarios namely (Base Case, Best Case and Worst Case) have been incorporated into the model to get a flexible model.
 3.	And Tesla being in the automotive business, to calculate its revenue, we need to actually calculate no.of vehicles it delivers and its average selling price. And we also need to forecast the deliveries that will take place in future.
 
+![image](https://github.com/Munu0192/Financial-Modeling-Valuation/blob/9361bd502759dcc9acdb31585f3ef4dbb8d18567/P&L%20-%20Tesla.png)
+
 5.	And to forecast the future projections of Tesla’s financial condition, we need comparable values of certain P&L and balance sheet items of its peers competing in the same segment. And we need comparable values of Deliveries, comparable values of Gross Profit %, operating expenses and Property, Plant & Equipment for calculating Fixed Asset Roll Forward (deals with Beginning PP&E, CAPEX and D&A).
 
 7.	For calculation of working capital, we need to calculate the historic value of DSO, DIO and DPO of the firm and then take its average to forecast future growth.
